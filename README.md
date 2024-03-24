@@ -102,18 +102,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <div id="wrap">
 -->
 
-<h3><span class="white"><br>～～～65歳のお祝い、日時通知～～～<br><br>
-<!--<img src="oizumi_30.PNG" alt="サンプル画像" width="1800" /> <br><br>-->
-<section>
-<h4><span class="white">★☆★☆★☆ 東京都立大泉高等学校30期卒業生　同期会準備委員会 ★☆★☆★☆<br><br>
-　
 
-
-</span></h4>
-</section>
-
-
-<h4>１次会会場、wacca</h4>
 
 <a href="20240324_001.JPG" data-lightbox="abc"><img src="20240324_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240324_002.JPG" data-lightbox="abc"><img src="20240324_002.JPG" alt="サンプル画像" width="900" /></a>
